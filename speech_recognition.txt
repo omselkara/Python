@@ -1,0 +1,10 @@
+r = sr.Recognizer()
+with sr.Microphone() as source:
+     audio = r.listen(source)
+data = ""
+try:
+   data = r.recognize_google(audio, language='tr-tr')
+   data = data.lower()
+   print("Bunu Söyledin :" + data)
+except sr.UnknownValueError:
+   pass
