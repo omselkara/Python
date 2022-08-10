@@ -1,0 +1,373 @@
+﻿
+[Header]
+ProjectFileVersion = 1.1
+[General]
+Program name = Bozkurt Mem Personel Değerlendirme
+Program version = 1
+Windows 2000 = 1
+Windows XP = 1
+Windows Server 2003 = 1
+Windows Vista = 1
+Windows Server 2008 = 1
+Windows 7 = 1
+Windows 8 = 1
+Windows 10 = 1
+Windows Server 2016 = 1
+DoNotCheckOS = 1
+Company name = Ömer Selim Karaşah
+Website = https://
+SFA = 1
+DFA = 1
+Comp = 1
+[Graphics]
+Wizard image = <main>
+Header image = <main>
+Show Label = 1
+VisualStylesEnabled = 1
+[Files]
+Installation path = <ProgramFiles>\<Company>\<AppName>\
+Autcip = 1
+[Uninstall]
+Vwau = 0
+Website = https://
+Include uninstaller = 1
+Uninstaller filename = Uninstall
+UseCustomDisplayIcon = 0
+CustomDisplayIcon = <InstallPath>\
+[Licence]
+Licence dialog = 0
+[Finish]
+Sart program = 0
+Reboot computer = 0
+Program = <InstallPath>\
+ProgramArguments = 
+[Shortcuts]
+Allowtc = 0
+Shortcut path = <Company>\<AppName>
+[Serialoptions]
+Allows = 0
+Number = 1000
+Mask = #####-#####-#####-#####
+[SplashScreen]
+Image = 
+Sound = 
+Time = 2
+PlaySound = 0
+Allow = 0
+[Build]
+File = C:\Users\Selim\Desktop\Bozkurt Mem Personel Değerlendirme Setup.exe
+SetupIconPath = ..\icons\ancient.ico
+UninstallIconPath = ..\icons\ancient.ico
+CompressionMethod = 0
+CompressionLevel = 2
+[Updater]
+Allow = 0
+1 = <AppName>
+2 = <AppVersion>
+3 = http://
+4 = http://
+5 = http://
+6 = Update
+Language = 0
+RunProg = 
+RunProgs = 0
+Execdlls = 0
+[Languages]
+[Files/Dirs]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_asyncio.pyd
+59.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_bz2.pyd
+78.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_cffi_backend.cp310-win_amd64.pyd
+177 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_ctypes.pyd
+116.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_decimal.pyd
+244.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_elementtree.pyd
+119.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_hashlib.pyd
+58.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_lzma.pyd
+150.4 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_multiprocessing.pyd
+29.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_overlapped.pyd
+44.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_queue.pyd
+26.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_socket.pyd
+73.4 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_ssl.pyd
+152.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_tkinter.pyd
+60.4 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_uuid.pyd
+20.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\_win32sysloader.cp310-win_amd64.pyd
+12 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-console-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-datetime-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-debug-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-errorhandling-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-fibers-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-file-l1-1-0.dll
+24.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-file-l1-2-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-file-l2-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-handle-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-heap-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-interlocked-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-libraryloader-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-localization-l1-2-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-memory-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-namedpipe-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-processenvironment-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-processthreads-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-processthreads-l1-1-1.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-profile-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-rtlsupport-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-string-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-synch-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-synch-l1-2-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-sysinfo-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-timezone-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-core-util-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-conio-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-convert-l1-1-0.dll
+24.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-environment-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-filesystem-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-heap-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-locale-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-math-l1-1-0.dll
+28.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-multibyte-l1-1-0.dll
+28.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-process-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-runtime-l1-1-0.dll
+24.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-stdio-l1-1-0.dll
+24.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-string-l1-1-0.dll
+24.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-time-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\api-ms-win-crt-utility-l1-1-0.dll
+20.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\base_library.zip
+812.1 KB
+zip
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\Bozkurt Mem Personel Değerlendirme.exe
+4.9 MB
+exe
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\İl Form.xlsx
+9.9 KB
+xlsx
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\libcrypto-1_1.dll
+3.3 MB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\libffi-7.dll
+32 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\libopenblas.EL2C6PLE4ZYW3ECEVIV3OXXGRN2NRFM2.gfortran-win_amd64.dll
+34.2 MB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\libssl-1_1.dll
+681.7 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\mfc140u.dll
+5.8 MB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\MSVCP140.dll
+552.4 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\Puan Form.xlsx
+21.5 KB
+xlsx
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\pyexpat.pyd
+187.9 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\python310.dll
+4.2 MB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\pythoncom310.dll
+543.5 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\pywintypes310.dll
+139 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\select.pyd
+25.4 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\tcl86t.dll
+1.8 MB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\tk86t.dll
+1.5 MB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\ucrtbase.dll
+1.1 MB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\unicodedata.pyd
+1.1 MB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\VCRUNTIME140.dll
+94.9 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\VCRUNTIME140_1.dll
+36.4 KB
+dll
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\win32api.cp310-win_amd64.pyd
+131.5 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\win32pdh.cp310-win_amd64.pyd
+33.5 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\win32trace.cp310-win_amd64.pyd
+22 KB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\İkinci Yedek Kaynak Kod\Bozkurt Mem Personel Değerlendirme\win32ui.cp310-win_amd64.pyd
+1.4 MB
+pyd
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\altgraph-0.17.2.dist-info\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\cffi-1.15.1.dist-info\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\numpy\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\PIL\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\pyinstaller-5.1.dist-info\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\setuptools-58.1.0.dist-info\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\tcl\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\tcl8\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\tk\
+N/A
+[Folder]
+C:\Users\Selim\Desktop\Ödül Form Kaynak Kodu\Bozkurt Mem Personel Değerlendirme\win32com\
+N/A
+[Folder]
+[Licence_Begin]
+114
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\fs20\par
+}
+ [Licence_End]
+[Registry]
+HKEY_CURRENT_USER
+\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+<InstallPath>\Bozkurt Mem Personel Değerlendirme.exe
+~ RUNASADMIN
+0
+[Variables]
+[SCs]
+Desktop
+Bozkurt Mem Personel Değerlendirme Kısayol
+<InstallPath>\Bozkurt Mem Personel Değerlendirme.exe
+
+
+0
+[IFP_End]
+[Serials]
+[Serials_End]
+[Commands]

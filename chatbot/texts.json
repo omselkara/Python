@@ -1,0 +1,23 @@
+{"texts": [
+        {"tag": "Selamlaşma",
+         "sorular": ["Hey","Merhaba","Selam","Merhabalar","Selamlar"],
+	 "cevaplar":["Hey","Merhaba","Selam","Merhabalar","Selamlar"]
+        },
+        {"tag": "Hal sorma",
+         "sorular": ["Nasılsın","Naber","iyimisin","Napıyorsun","Nasıl gidiyor","Napıyon"],
+	 "cevaplar":["İyiyim sen nasılsın","İyi","İyi gidiyor","İyi sen","Hiç"]
+        },
+        {"tag": "Teşekkür",
+         "sorular": ["Teşekkür ederim","Teşekkürler","Sağol","Teşekkür"],
+	 "cevaplar":["Önemli değil","Sorun değil"]
+        },
+        {"tag": "Veda",
+         "sorular": ["Güle güle","Hoşçakal","Gitmem lazım","Bay bay","Görüşürüz"],
+ 	 "cevaplar":["Güle güle","Bay bay","Hoşçakal","Görüşürüz"]
+        },
+        {"tag": "Hava durumu",
+         "sorular": ["Hava Durumu","Bugünkü hava durumu"],
+ 	 "cevaplar":["Hava durumu"]
+        }
+    ]
+}
